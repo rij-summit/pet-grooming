@@ -1,0 +1,40 @@
+body {
+    background-image:url(src/dog.jpeg);
+}
+h1 {
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 10px;
+    margin: 10px;
+    color: white;
+}
+
+.box {
+    margin: 25px;
+    padding: 25px;
+    background-color: aquamarine;
+}
+
+h3 {
+    font-family: 'Courier New', Courier, monospace;
+
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+}
+.formbox {
+    padding: 25px;
+    margin: auto;
+    width: 350px;
+    height: 300px;
+    background-color: rgba(156, 115, 81, 0.6);
+}
+
+form {
+    font-family: 'Courier New', Courier, monospace;
+    margin: auto;
+    
+}
+
+
+
